@@ -1,0 +1,6 @@
+bin/
+obj/
+wwwroot/
+*.bak
+*.log
+gitpush.sh
