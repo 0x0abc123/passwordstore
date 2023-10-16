@@ -1,6 +1,8 @@
+.vs/
 bin/
 obj/
 wwwroot/
 *.bak
 *.log
+*.user
 gitpush.sh
